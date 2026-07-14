@@ -1,6 +1,4 @@
- ## Hi there 👋
-
-#### --<h1 align="center">Hi 👋, I'm Divyanshi</h1>
+#### <h1 align="center">Hi 👋, I'm Divyanshi</h1>
 <h3 align="center">Python • AI/ML • Open Source</h3>
 
 - 🔭 I’m currently working on [100 Days of Python for AI/ML](https://github.com/rawat-divyanshi/100-days-of-python-for-ai-ml)
